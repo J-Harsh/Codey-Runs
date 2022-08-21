@@ -119,7 +119,6 @@ window.addEventListener("load" , function()
             else if(this.speed>0)
                 this.enemies.push(new ClimbingEnemy(this));
             this.enemies.push(new FlyingEnemy(this));
-            console.log(this.enemies,this.collisions,this.particles,this.floatingMessages);
         }
     }
 

@@ -34,7 +34,6 @@ export class UI
             {
             context.fillText("Boo-yah",this.game.width*0.5,this.game.height*0.5-20);
             context.font=this.fontSize*0.9+"px "+this.fontFamily;
-            console.log(context.font);
             context.fillStyle="dark gray";
             context.fillText("What are creatures of the night afraid of?",this.game.width*0.5,this.game.height*0.5+25);
             context.font=this.fontSize*1.2+"px "+this.fontFamily;
@@ -47,7 +46,6 @@ export class UI
             {
             context.font=this.fontSize*2+"px "+this.fontFamily;
             context.fillText("Love at first bite?",this.game.width*0.5,this.game.height*0.5-10);
-            console.log(context.font);
             context.fillStyle="rgba(0, 129, 76, 1)";
             context.font=this.fontSize*1+"px "+this.fontFamily;
             context.fillText("Nope. Better luck next time😉",this.game.width*0.5,this.game.height*0.5+35);
