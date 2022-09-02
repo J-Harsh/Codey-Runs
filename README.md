@@ -6,4 +6,8 @@ This is a single level,onetime play game but can be built upon a lot.
 To win get more than 20 points in the given time. 
 Have fun playing!!!
 
+
+![image](https://user-images.githubusercontent.com/56508036/188167719-be3606a3-58e9-4f86-ad25-10bd5f5f80c6.png)
+
+
 Live preview:https://codey-runs.netlify.app/
